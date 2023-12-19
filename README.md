@@ -1,7 +1,7 @@
 # Terraform Beginner Bootcamp 2023
 
 
-## Semantic versioninig
+## Semantic versioninig :mage:
 Utilising sematic versioning for tagging purposes.
 [semver.com](https://semver.org/)
 
